@@ -10,3 +10,5 @@ This project looks like an RPG game where you can fight against a monster pressi
 * Adding Strong Attack Function
 
 * Adding a Heal Player Functionality
+
+* Reset Game Functionality
