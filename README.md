@@ -14,3 +14,5 @@ This project looks like an RPG game where you can fight against a monster pressi
 * Reset Game Functionality
 
 * Validating User Input
+
+* Adding a Conditonal Battle Log
