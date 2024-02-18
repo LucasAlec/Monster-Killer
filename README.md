@@ -16,3 +16,5 @@ This project looks like an RPG game where you can fight against a monster pressi
 * Validating User Input
 
 * Adding a Conditonal Battle Log
+
+* Working with "try-catch" to Catch & Handle Errors
